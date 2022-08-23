@@ -8,7 +8,7 @@
 
 thanks for jyy.
 
-jyy.css and base.css is crawl from jyy's  web
+jyy.css and base.css is crawled from jyy's  web
 
 ## Custom code Highlight
 
